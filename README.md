@@ -1,2 +1,2 @@
 # HTML-Project
-A Html Project from University 
+Html Project from University using Html & CSS
